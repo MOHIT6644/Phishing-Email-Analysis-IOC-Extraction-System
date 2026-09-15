@@ -82,3 +82,11 @@ Recommended Actions:
 - Automated Threat Intelligence Enrichment
 - Real-Time Phishing Detection
 
+
+## 
+
+| IOC Type | |	Value |	| Reason |
+|--Email--| |--	security@microsoft-alerts.com--| |--Suspicious sender--|
+|--Domain--| |--microsoft-security-reset-login.com	--||--Brand impersonation--|
+|--URL--|	|--http://microsoft-security-reset-login.com--|	|--Credential harvesting--|
+|--MITRE--|	|--T1566.002--|	|--Spearphishing Link--|
