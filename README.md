@@ -85,8 +85,8 @@ Recommended Actions:
 
 ## 
 
-| IOC Type | |	Value |	| Reason |
-|--Email--| |--	security@microsoft-alerts.com--| |--Suspicious sender--|
-|--Domain--| |--microsoft-security-reset-login.com	--||--Brand impersonation--|
-|--URL--|	|--http://microsoft-security-reset-login.com--|	|--Credential harvesting--|
-|--MITRE--|	|--T1566.002--|	|--Spearphishing Link--|
+| IOC Type | |	Value |	| Reason |<br>
+|--Email--| |--	security@microsoft-alerts.com--| |--Suspicious sender--|<br>
+|--Domain--| |--microsoft-security-reset-login.com	--||--Brand impersonation--|<br>
+|--URL--|	|--http://microsoft-security-reset-login.com--|	|--Credential harvesting--|<br>
+|--MITRE--|	|--T1566.002--|	|--Spearphishing Link--|<br>
