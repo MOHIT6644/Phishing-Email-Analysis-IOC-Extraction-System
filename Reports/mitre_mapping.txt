@@ -1,0 +1,13 @@
+MITRE ATT&CK MAPPING
+
+Technique:
+T1566.002
+
+Technique Name:
+Phishing: Spearphishing Link
+
+Tactic:
+Initial Access
+
+Description:
+The attacker attempts to trick the victim into clicking a malicious URL to harvest credentials.

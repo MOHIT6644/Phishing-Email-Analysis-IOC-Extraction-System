@@ -1,0 +1,19 @@
+EXECUTIVE SUMMARY
+
+Incident Type:
+Phishing Email
+
+Severity:
+High
+
+Summary:
+A phishing email was identified containing a suspicious password reset URL impersonating Microsoft Security.
+
+Impact:
+Potential credential theft and unauthorized account access.
+
+Detected IOC:
+http://microsoft-security-reset-login.com
+
+Status:
+Contained and Documented

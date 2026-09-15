@@ -1,0 +1,16 @@
+From: security@microsoft-security.com
+To: employee@company.com
+Subject: Urgent Password Reset Required
+
+Dear User,
+
+We detected suspicious activity on your account.
+
+Please reset your password immediately:
+
+http://microsoft-security-reset-login.com
+
+Failure to do so within 24 hours will result in account suspension.
+
+Regards,
+Microsoft Security Team

@@ -1,0 +1,21 @@
+Incident Type:
+Phishing Email
+
+Severity:
+High
+
+Indicators of Compromise:
+- http://microsoft-security-reset-login.com
+
+Findings:
+Email impersonates Microsoft Security.
+Contains malicious password reset URL.
+Attempts credential harvesting.
+
+MITRE ATT&CK:
+T1566.002 - Phishing Link
+
+Recommendations:
+- Block domain
+- Educate users
+- Reset compromised credentials
